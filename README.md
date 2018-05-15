@@ -6,4 +6,6 @@ This is designed for you to try experiments out, and to try to clarify the mathe
 
 An errors are exercises for the reader!  (You learn by doing, not just by reading.)
 
+An overview of major concepts by lecture has been added at the top level directory.
+
 Enjoy!
